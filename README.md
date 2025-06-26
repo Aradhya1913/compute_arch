@@ -1,7 +1,7 @@
 # compute_arch
 🔗 [Explore the full 30-hour roadmap](https://docs.google.com/document/d/1p9aj3KL2dvLd0r770GuIM8rRir-TEKXvyDSmseTxQXA/edit)
 
-🧠 #compute_arch – 30-Hour Roadmap to Master Core Computer Understanding
+🎯  #compute_arch – 30-Hour Roadmap to Master Core Computer Understanding
 
 This curated 30-hour plan is designed for final-year engineering students, freshers, or anyone feeling weak in core computer fundamentals like hardware, operating systems, Linux, and basic networking.
 
@@ -15,5 +15,5 @@ This curated 30-hour plan is designed for final-year engineering students, fresh
 🎯 Why this guide?
 If you’ve ever said “I can code, but I don’t understand how the system underneath works” — this is for you. It’s not just theory. It’s a learn-by-doing journey, powered by carefully picked videos, tools, and tasks.
 
-📚 Built with care. Verified with precision. All links work. Every step matters.
+📚 Verified with precision. All links work. Every step matters.
 
