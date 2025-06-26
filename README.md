@@ -1,5 +1,4 @@
 # compute_arch
-⸻
 🔗 [Explore the full 30-hour roadmap](https://docs.google.com/document/d/1p9aj3KL2dvLd0r770GuIM8rRir-TEKXvyDSmseTxQXA/edit)
 
 🧠 #compute_arch – 30-Hour Roadmap to Master Core Computer Understanding
