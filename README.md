@@ -15,7 +15,7 @@ This curated 30-hour plan is designed for **Peers to hold Strong Techinal Grip**
 - 🐧 Practical Linux usage and terminal confidence (not just GUI-level usage)  
 - 🌐 Clear mental models of how networking works — IPs, ports, DNS, firewalls  
 - 💻 Real system-level commands, shell scripting, and hands-on labs in VirtualBox
-- You will have learnt thing just enough to be called a *TECH NERD*
+- 🧠 You will have learnt thing just enough to be called a *TECH NERD*
 
 ---
 
