@@ -4,7 +4,7 @@
 
 ## 🎯 30-Hour Roadmap to Master Core Computer Understanding
 
-This curated 30-hour plan is designed for ** Personel hold Strong Techinal Concepts **, freshers, or anyone feeling weak in core computer fundamentals** like hardware, operating systems, Linux, and basic networking.
+This curated 30-hour plan is designed for **Peers to hold Strong Techinal Grip**, freshers, or anyone feeling weak in core computer fundamentals** like hardware, operating systems, Linux, and basic networking.
 
 ---
 
